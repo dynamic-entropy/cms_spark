@@ -1,9 +1,6 @@
 [submodule "CRABAnalysis"]
 	path = CRABAnalysis
 	url = https://github.com/dynamic-entropy/CRABAnalysis.git
-[submodule "CMSDatasetRuleMap"]
-	path = CMSDatasetRuleMap
-	url = https://github.com/dynamic-entropy/CMSDatasetRuleMap.git
 [submodule "DatasetRuleAnalysis"]
 	path = DatasetRuleAnalysis
 	url = https://github.com/dynamic-entropy/DatasetRuleAnalysis.git
