@@ -4,3 +4,6 @@
 [submodule "CMSDatasetRuleMap"]
 	path = CMSDatasetRuleMap
 	url = https://github.com/dynamic-entropy/CMSDatasetRuleMap.git
+[submodule "DatasetRuleAnalysis"]
+	path = DatasetRuleAnalysis
+	url = https://github.com/dynamic-entropy/DatasetRuleAnalysis.git
